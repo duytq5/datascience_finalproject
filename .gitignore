@@ -1,0 +1,28 @@
+# Data files from main branch
+train.csv
+test.csv
+gender_submission.csv
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Generated visualizations
+*.png
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
