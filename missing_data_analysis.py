@@ -23,7 +23,7 @@ print("=" * 80)
 print("MISSING DATA ANALYSIS - TITANIC DATASET")
 print("=" * 80)
 
-df = pd.read_csv('titanic_data.csv')
+df = pd.read_csv('train.csv')
 
 print("\n1. DATASET OVERVIEW")
 print("-" * 80)
